@@ -1,0 +1,38 @@
+body {
+background-color: white;
+font-family: sans-serif;
+text-size: 30px;
+color: yellow;
+width: auto;
+}
+
+.title {
+display: block;
+position: relative;
+margin: auto;
+}
+
+.images {
+height: 200px;
+width: 200px;
+margin: auto;
+position:relative;
+display: block;
+}
+
+.kirby {
+
+}
+
+.king {
+
+}
+
+.meta {
+
+}
+
+.dee {
+
+}
+
