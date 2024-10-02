@@ -2,14 +2,15 @@ body {
 background-color: white;
 font-family: sans-serif;
 text-size: 30px;
-color: yellow;
-width: auto;
 }
 
 .title {
+font-size: 350%;
+width: auto;
 display: block;
 position: relative;
 margin: auto;
+font-weight: bold;
 }
 
 .images {
@@ -18,21 +19,86 @@ width: 200px;
 margin: auto;
 position:relative;
 display: block;
+border: 0px solid black;
+}
+
+h1 {
+color: blue;
+margin: auto;
+width: 200px;
+text-align: center;
+text-decoration: underline;
+}
+
+p {
+margin: auto;
+width: 200px;
+text-align: center;
+color: blue;
 }
 
 .kirby {
+border: 2px solid black;
+display: block;
+width: 250px;
+margin: auto;
+color: red;
+height: auto;
+}
 
+.kirbyh, .kirbyp{
+color: #fa00f2;
+}
+
+.kirbyh {
+text-decoration: underline;
 }
 
 .king {
+border: 2px solid black;
+display: block;
+width: 250px;
+margin: auto;
+}
 
+.kingh, .kingp {
+color: yellow;
+}
+
+.kingh {
+text-decoration: underline;
 }
 
 .meta {
+border: 2px solid black;
+display: block;
+width: 250px;
+margin: auto;
+}
 
+
+.metah, .metap {
+color: #c3dffa;
+}
+
+.metah {
+text-decoration: underline;
 }
 
 .dee {
-
+border: 2px solid black;
+display: block;
+width: 250px;
+margin: auto;
 }
 
+.deep, .deeh {
+color: #f08c35;
+}
+
+
+
+.span {
+border: 2px solid black;        
+padding: 12px 0px 12px 0px;
+}
